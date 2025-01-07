@@ -3,13 +3,13 @@ title: "Andrew Ruiz Dissertation Project"
 author: "Andrew J Ruiz"
 format:
   html:
-    theme: "cosmo"
-    toc: true
-    toc-title: "Contents"
-    number-sections: true
-    css: "https://bootswatch.com/5/cosmo/bootstrap.min.css"
-output-file: "index.html"
+    theme: "cosmo"  # This sets the theme
+    toc: true       # Enables the table of contents
+    toc-title: "Contents"  # Title for the table of contents
+    number-sections: true  # Numbers the sections in the output
+output-file: "index.html"  # Output file (make sure it's a single filename, no paths)
 ---
+
 
 # Welcome to My Dissertation Project
 
