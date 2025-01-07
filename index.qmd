@@ -1,0 +1,26 @@
+---
+title: "Andrew Ruiz Dissertation Project"
+author: "Andrew J Ruiz"
+format:
+  html:
+    theme: "cosmo"
+    toc: true
+    toc-title: "Contents"
+    number-sections: true
+    css: "https://bootswatch.com/5/cosmo/bootstrap.min.css"
+output-file: "index.html"
+---
+
+# Welcome to My Dissertation Project
+
+This project explores integrated risk insights for restaurant food safety in Boston, Massachusetts.
+
+## Objectives
+- Predict food safety violations using AI models.
+- Integrate environmental and operational data streams.
+- Proactively reduce foodborne illness risks.
+
+## Methods and Tools
+- Cascading failure modeling with PyTorch.
+- Geospatial clustering for violation patterns.
+- Explainable AI for transparent insights.
