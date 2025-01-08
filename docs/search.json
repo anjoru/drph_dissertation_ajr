@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data Sources",
+    "section": "",
+    "text": "Data Sources\nThe framework uses diverse data streams to capture food safety risks:\n\nInspection Records: Boston Food Establishment Database (2006–Present).\nEnvironmental Data: Weather, power outages, and urban heat island effects.\nCitizen Reports: Boston 311 logs on sanitation and pest complaints.\nBusiness Characteristics: Details like operating hours and price range.\nSocioeconomic Data: To assess vulnerabilities and disparities."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About This Project\nThis project focuses on creating an AI framework for restaurant food safety in Boston, Massachusetts. It aims to predict food safety violations and prevent foodborne illness through advanced AI techniques and integrated data streams."
+  },
+  {
+    "objectID": "objectives.html",
+    "href": "objectives.html",
+    "title": "Objectives",
+    "section": "",
+    "text": "Develop AI-powered tools to predict food safety violations.\nIntegrate multiple data streams (e.g., inspections, environmental data).\nPrevent foodborne illness through proactive interventions."
+  },
+  {
+    "objectID": "objectives.html#main-goals",
+    "href": "objectives.html#main-goals",
+    "title": "Objectives",
+    "section": "",
+    "text": "Develop AI-powered tools to predict food safety violations.\nIntegrate multiple data streams (e.g., inspections, environmental data).\nPrevent foodborne illness through proactive interventions."
+  },
+  {
+    "objectID": "discussion.html",
+    "href": "discussion.html",
+    "title": "Discussion",
+    "section": "",
+    "text": "The framework represents a paradigm shift in food safety management, moving from reactive to proactive strategies.\nInsights help policymakers allocate resources effectively and equitably.\n\n\n\n\n\nExpand to other cities and jurisdictions.\nExplore additional data sources for improved predictions."
+  },
+  {
+    "objectID": "discussion.html#implications",
+    "href": "discussion.html#implications",
+    "title": "Discussion",
+    "section": "",
+    "text": "The framework represents a paradigm shift in food safety management, moving from reactive to proactive strategies.\nInsights help policymakers allocate resources effectively and equitably."
+  },
+  {
+    "objectID": "discussion.html#future-work",
+    "href": "discussion.html#future-work",
+    "title": "Discussion",
+    "section": "",
+    "text": "Expand to other cities and jurisdictions.\nExplore additional data sources for improved predictions."
+  },
+  {
+    "objectID": "results.html",
+    "href": "results.html",
+    "title": "Results",
+    "section": "",
+    "text": "AI tools achieved X% accuracy in predicting food safety violations.\nIntegration of weather data improved risk modeling.\nCooling centers reduced heat-related deaths by X%."
+  },
+  {
+    "objectID": "results.html#key-findings",
+    "href": "results.html#key-findings",
+    "title": "Results",
+    "section": "",
+    "text": "AI tools achieved X% accuracy in predicting food safety violations.\nIntegration of weather data improved risk modeling.\nCooling centers reduced heat-related deaths by X%."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andrew Ruiz Dissertation Project",
+    "section": "",
+    "text": "This project explores integrated risk insights for restaurant food safety in Boston, Massachusetts.\n\n\n\nPredict food safety violations using AI models.\nIntegrate environmental and operational data streams.\nProactively reduce foodborne illness risks.\n\n\n\n\n\nCascading failure modeling with PyTorch.\nGeospatial clustering for violation patterns.\nExplainable AI for transparent insights."
+  },
+  {
+    "objectID": "index.html#objectives",
+    "href": "index.html#objectives",
+    "title": "Andrew Ruiz Dissertation Project",
+    "section": "",
+    "text": "Predict food safety violations using AI models.\nIntegrate environmental and operational data streams.\nProactively reduce foodborne illness risks."
+  },
+  {
+    "objectID": "index.html#methods-and-tools",
+    "href": "index.html#methods-and-tools",
+    "title": "Andrew Ruiz Dissertation Project",
+    "section": "",
+    "text": "Cascading failure modeling with PyTorch.\nGeospatial clustering for violation patterns.\nExplainable AI for transparent insights."
+  },
+  {
+    "objectID": "methods.html",
+    "href": "methods.html",
+    "title": "Methods",
+    "section": "",
+    "text": "Cascading Failure Modeling: Simulates interconnected risks, such as heatwaves impacting refrigeration.\nGeospatial Clustering: Identifies hotspots for violations.\nExplainable AI (XAI): Ensures transparency in risk prediction.\n\n\n\n\n\nModeled heat-related illness and death.\nEvaluated the cost-effectiveness of interventions like cooling centers."
+  },
+  {
+    "objectID": "methods.html#ai-models-and-tools",
+    "href": "methods.html#ai-models-and-tools",
+    "title": "Methods",
+    "section": "",
+    "text": "Cascading Failure Modeling: Simulates interconnected risks, such as heatwaves impacting refrigeration.\nGeospatial Clustering: Identifies hotspots for violations.\nExplainable AI (XAI): Ensures transparency in risk prediction."
+  },
+  {
+    "objectID": "methods.html#microsimulation",
+    "href": "methods.html#microsimulation",
+    "title": "Methods",
+    "section": "",
+    "text": "Modeled heat-related illness and death.\nEvaluated the cost-effectiveness of interventions like cooling centers."
+  }
+]

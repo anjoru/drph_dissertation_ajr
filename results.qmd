@@ -1,0 +1,11 @@
+
+---
+title: "Results"
+---
+
+# Results
+
+## Key Findings:
+1. AI tools achieved X% accuracy in predicting food safety violations.
+2. Integration of weather data improved risk modeling.
+3. Cooling centers reduced heat-related deaths by X%.
