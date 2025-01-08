@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs  # This ensures rendered files go into the "docs" folder
+  output-dir: docs  # Rendered files go into the "docs" folder
 
 website:
   title: "Andrew Ruiz Dissertation Project"
@@ -28,4 +28,9 @@ format:
     toc: true
     highlight: zenburn
     css: styles.css
+
+# Include the Gantt chart as a resource
+website:
+  resources:
+    - docs/gantt_chart.html
 
