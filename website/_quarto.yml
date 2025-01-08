@@ -1,0 +1,32 @@
+
+project:
+  type: website
+  output-dir: docs  # Output stays inside the 'website' folder
+
+website:
+  title: "Andrew Ruiz Dissertation Project"
+  navbar:
+    left:
+      - text: "About"
+        file: about.qmd
+      - text: "Objectives"
+        file: objectives.qmd
+      - text: "Methods"
+        file: methods.qmd
+      - text: "Data Sources"
+        file: data.qmd
+      - text: "Results"
+        file: results.qmd
+      - text: "Discussion"
+        file: discussion.qmd
+    right:
+      - icon: github
+        href: https://github.com/anjoru/drph_dissertation_ajr.git
+
+format:
+  html:
+    theme: yeti
+    highlight: zenburn
+    css: styles.css
+    toc: true
+
