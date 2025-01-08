@@ -10,7 +10,5 @@ This project focuses on creating an AI framework for restaurant food safety in B
 
 Below is a Gantt chart outlining the major tasks and their timelines for this dissertation project:
 
-<iframe src="gantt_chart.html" width="100%" height="600px" frameborder="0"></iframe>
-
-
+<iframe src="/Users/andrewruiz/drph_dissertation_ajr/website/docs/gantt_chart.html" width="100%" height="600px" frameborder="0"></iframe>
 
