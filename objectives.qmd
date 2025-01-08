@@ -1,0 +1,11 @@
+
+---
+title: "Objectives"
+---
+
+# Objectives
+
+## Main Goals:
+1. Develop AI-powered tools to predict food safety violations.
+2. Integrate multiple data streams (e.g., inspections, environmental data).
+3. Prevent foodborne illness through proactive interventions.

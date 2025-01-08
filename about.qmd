@@ -1,0 +1,8 @@
+
+---
+title: "About"
+---
+
+# About This Project
+
+This project focuses on creating an AI framework for restaurant food safety in Boston, Massachusetts. It aims to predict food safety violations and prevent foodborne illness through advanced AI techniques and integrated data streams.
