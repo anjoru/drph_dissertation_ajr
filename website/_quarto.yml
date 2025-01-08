@@ -1,7 +1,6 @@
-
 project:
   type: website
-  output-dir: docs  # Output stays inside the 'website' folder
+  output-dir: docs  # This ensures rendered files go into the "docs" folder
 
 website:
   title: "Andrew Ruiz Dissertation Project"
@@ -25,8 +24,8 @@ website:
 
 format:
   html:
-    theme: yeti
+    theme: cosmo
+    toc: true
     highlight: zenburn
     css: styles.css
-    toc: true
 
